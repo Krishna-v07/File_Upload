@@ -1,0 +1,1 @@
+This performs the same action as option one, except that the --single-branch option was introduced in Git version 1.7.10 and later. It allows you to only fetch files from the specified branch without fetching other branches.
