@@ -74,7 +74,7 @@ const App = () => {
     } else return true;
   };
 
-//##############################################33
+
 
   const captureImage = async (type) => {
     let options = {
